@@ -1,0 +1,33 @@
+﻿namespace ControleLivros.Models
+{
+    public enum TypeGenre
+    {
+        Autoajuda,
+        Aventura,
+        Biograáfia,
+        Informática,
+        Científico,
+        Conto,
+        Acão,
+        Drama,
+        Poesia,
+        Crônica,
+        Infantojuvenil,
+        Humor,
+        Didaticos,
+        Fantasia,
+        Horror,
+        Ficção,
+        Culinaria,
+        HQs,
+        Mangas,
+        Policial,
+        Suspense,
+        Mistério,
+        Política,
+        Filosofia,
+        Espiritualidade,
+        Romance,
+        Turismo
+    };
+}
